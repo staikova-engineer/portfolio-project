@@ -78,12 +78,13 @@ p {
 }
 
 .about-page {
-  padding: 140px;
+  padding: 100px;
 }
 
 .about-page h1 {
   font-size: 64px;
   line-height: 80px;
+  margin-bottom: 50px;
 }
 
 .about-page h2 {
@@ -135,5 +136,13 @@ p {
   .about-page {
     padding: 0;
     text-align: center;
+  }
+
+  .about-page h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+  }
+  .about-page h2 {
+    font-size: 16px;
   }
 }
