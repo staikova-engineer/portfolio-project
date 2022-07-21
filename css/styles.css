@@ -73,13 +73,9 @@ p {
   padding: 15px 30px;
 }
 
-.content {
-  padding: 120px 60px;
-}
-
-.content-container {
+/*.content-container {
   padding: 160px 20px;
-}
+}*/
 
 .content-container h1 {
   font-size: 64px;
